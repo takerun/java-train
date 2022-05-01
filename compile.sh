@@ -1,5 +1,7 @@
+#! /bin/bash
+
 javac \
 -encoding UTF-8 \
 -d classes \
 -cp 'lib/*' \
-src/janken/SimpleJanken.java
+src/janken/Player.java

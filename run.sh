@@ -1,3 +1,3 @@
 java \
 -cp 'lib/*:classes' \
-janken.SimpleJanken
+janken.Player
